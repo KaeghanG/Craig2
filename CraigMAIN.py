@@ -3,6 +3,8 @@ from pygame import *
 import sys
 from os import path
 
+# Craig
+
 img_dir = path.join(path.dirname(__file__), 'img')
 
 WIDTH = 1280
